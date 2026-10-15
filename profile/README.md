@@ -5,7 +5,9 @@
 Credit Coop enables onchain secured lending by escrowing a borrower's **future** cash flows onchain.
 Businesses draw credit against their revenue; lenders fund those facilities directly or through vaults.
 
-[Website](https://www.creditcoop.xyz) · [Docs](https://docs.creditcoop.xyz) · [X](https://x.com/creditcoop_xyz) · [LinkedIn](https://www.linkedin.com/company/credit-coop) · [Substack](https://creditcoop.substack.com/) · [Security](https://github.com/credit-cooperative/.github/blob/main/SECURITY.md)
+[Website](https://www.creditcoop.xyz) · [App](https://app.creditcoop.xyz) · [Docs](https://docs.creditcoop.xyz) · [Dune](https://dune.com/creditcoop/credit-cooperative) · [Blog](https://blog.creditcoop.xyz)
+
+[X](https://x.com/creditcoop_xyz) · [LinkedIn](https://www.linkedin.com/company/credit-coop) · [Substack](https://creditcoop.substack.com/) · [contact@creditcoop.xyz](mailto:contact@creditcoop.xyz)
 
 ### Open source
 
