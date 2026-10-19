@@ -19,4 +19,4 @@ Businesses draw credit against their revenue; lenders fund those facilities dire
 
 ### Security
 
-Found a vulnerability? Please **do not open a public issue**. Email **contact@creditcoop.xyz**.
+Found a vulnerability? Please **do not open a public issue**. Email **security@creditcoop.xyz**.

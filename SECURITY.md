@@ -3,7 +3,7 @@
 ## Reporting a vulnerability
 
 If you discover a vulnerability in any Credit Cooperative contract, app, or service, **do not open a public issue**.
-Email **contact@creditcoop.xyz** with:
+Email **security@creditcoop.xyz** with:
 
 - A description of the vulnerability
 - Steps to reproduce or a proof of concept
