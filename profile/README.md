@@ -13,7 +13,7 @@ Onchain secured lending, built on escrowed revenue.
 [![Website](https://img.shields.io/badge/Website-creditcoop.xyz-7B61FF?style=for-the-badge)](https://www.creditcoop.xyz)
 [![App](https://img.shields.io/badge/App-app.creditcoop.xyz-7B61FF?style=for-the-badge)](https://app.creditcoop.xyz)
 [![Docs](https://img.shields.io/badge/Docs-docs.creditcoop.xyz-7B61FF?style=for-the-badge)](https://docs.creditcoop.xyz)
-[![Dune](https://img.shields.io/badge/Dune-Analytics-7B61FF?style=for-the-badge)](https://dune.com/creditcoop/credit-cooperative)
+[![Analytics](https://img.shields.io/badge/Analytics-app.creditcoop.xyz%2Fanalytics-7B61FF?style=for-the-badge)](https://app.creditcoop.xyz/analytics)
 [![Blog](https://img.shields.io/badge/Blog-blog.creditcoop.xyz-7B61FF?style=for-the-badge)](https://blog.creditcoop.xyz)
 
 [![X](https://img.shields.io/badge/X-%40creditcoop__xyz-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/creditcoop_xyz)
