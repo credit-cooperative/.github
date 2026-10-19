@@ -37,25 +37,10 @@ Credit Coop enables onchain secured lending by escrowing a borrower's **future**
 
 ## Open source
 
-### Protocol
-
 | Repository | What it is | |
 |---|---|---|
 | [**Line-Of-Credit**](https://github.com/credit-cooperative/Line-Of-Credit) | v1 Line of Credit smart contracts (deployed) | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
 | [**v3-protocol-payment-rails**](https://github.com/credit-cooperative/v3-protocol-payment-rails) | Modular cross-chain token routing: a `PaymentRails` router plus pluggable action modules | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
-
-### SDK
-
-| Repository | What it is | |
-|---|---|---|
-| [**platform-sdk-ts**](https://github.com/credit-cooperative/platform-sdk-ts) | TypeScript SDK for the Credit Coop platform | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-
-### Tooling
-
-| Repository | What it is | |
-|---|---|---|
-| [**foundry-template**](https://github.com/credit-cooperative/foundry-template) | Foundry-based template for developing Solidity smart contracts | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
-| [**devkit**](https://github.com/credit-cooperative/devkit) | Shared config files and scripts | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 
 ## Security
 
