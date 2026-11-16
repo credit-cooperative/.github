@@ -42,6 +42,27 @@ Credit Coop enables onchain secured lending by escrowing a borrower's **future**
 | [**Line-Of-Credit**](https://github.com/credit-cooperative/Line-Of-Credit) | v1 Line of Credit smart contracts (deployed) | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
 | [**v3-protocol-payment-rails**](https://github.com/credit-cooperative/v3-protocol-payment-rails) | Modular cross-chain token routing: a `PaymentRails` router plus pluggable action modules | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
 
+## Audits
+
+Credit Coop contracts have been independently reviewed at every protocol generation.
+
+| Date | Auditor | Scope | |
+|---|---|---|---|
+| Jul – Aug 2022 | [Halborn](https://www.halborn.com/) | v1 Line of Credit | [Report 🔒](https://github.com/credit-cooperative/security-and-audits/blob/master/audits/credit-coop-v1/halborn/2022-08-12_Halborn_P2P_Loan_Security_Audit_Report.pdf) |
+| Nov 2022 | [Code4rena](https://code4rena.com/) | v1 Line of Credit (public contest) | [Report](https://github.com/code-423n4/2022-11-debtdao-findings/blob/main/report.md) |
+| Jan 2023 | [Halborn](https://www.halborn.com/) | v1 migration contracts | [Report 🔒](https://github.com/credit-cooperative/security-and-audits/blob/master/audits/credit-coop-v1/halborn/2023-01-14_Halborn_Migration_Security_Audit_Report.pdf) |
+| Mar – May 2024 | [Halborn](https://www.halborn.com/) | v2 Line of Credit and Vaults | [Report 🔒](https://github.com/credit-cooperative/security-and-audits/blob/master/audits/credit-coop-v2/halborn/2024-05-10_Halborn_Security_Review_Report.pdf) |
+| Sep 2024 | [LightChaser](https://www.lightchaser.online/) | v2 Line of Credit and Vaults (automated) | [Report 🔒](https://github.com/credit-cooperative/security-and-audits/blob/master/audits/credit-coop-v2/lightchaser/2024-09-29_LightChaser_Automated_Review_Report.pdf) |
+| Oct – Nov 2024 | [Enigma Dark](https://www.enigmadark.com/) | v2 Line of Credit and Vaults | [Report 🔒](https://github.com/credit-cooperative/security-and-audits/blob/master/audits/credit-coop-v2/enigma-dark/2024-10-30_Enigma_Dark_Security_Review_Report.pdf) |
+| Nov – Dec 2024 | [Recon](https://getrecon.xyz/) | v2 Line of Credit and Vaults (invariant testing + review) | [Report 🔒](https://github.com/credit-cooperative/security-and-audits/blob/master/audits/credit-coop-v2/recon/credit-coop-invariants/2024-12-12_Recon_Security_Review_Report.pdf) |
+| Dec 2024 – Jan 2025 | [Recon](https://getrecon.xyz/) | v2 Vaults (follow-up) | [Report 🔒](https://github.com/credit-cooperative/security-and-audits/blob/master/audits/credit-coop-v2/recon/credit-coop-invariants-2/2025-01-08_Recon_Security_Review_Report.pdf) |
+| May 2026 | [Certora](https://www.certora.com/) | v3 Payment Rails modules | [Report 🔒](https://github.com/credit-cooperative/security-and-audits/blob/master/audits/credit-coop-v3/certora/2026-05-26_Certora_Payment_Rails_Modules_Final_Report.pdf) |
+| Sep 2026 | [Certora](https://www.certora.com/) | v3 Payment Rails Atum module | [Report 🔒](https://github.com/credit-cooperative/security-and-audits/blob/master/audits/credit-coop-v3/certora/2026-09-14_Certora_Atum_Module_Final_Report.pdf) |
+
+> 🔒 **Partner access.** Reports marked with a lock, along with the v2 source repositories, are kept in private repositories and are shared with partners — investors, lenders, borrowers and integrators — for due diligence. Without access, these links return a GitHub 404. To request access, email **[contact@creditcoop.xyz](mailto:contact@creditcoop.xyz)** with your GitHub username.
+>
+> Full index: [security-and-audits](https://github.com/credit-cooperative/security-and-audits) 🔒
+
 ## Security
 
 Found a vulnerability? Please **do not open a public issue**.
